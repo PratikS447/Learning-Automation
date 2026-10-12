@@ -1,4 +1,4 @@
-package com.example.Selenium_Learning.Page_object_Modal;
+package com.example.Selenium_Learning.Page_object_Modal.Demo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
