@@ -1,4 +1,4 @@
-package com.example.Selenium_Learning.Page_object_Model;
+package com.example.Selenium_Learning.Page_object_Model.Demo;
 
 import com.example.Selenium_Learning.Page_object_Modal.Demo.GoogleSearchpage;
 import io.github.bonigarcia.wdm.WebDriverManager;

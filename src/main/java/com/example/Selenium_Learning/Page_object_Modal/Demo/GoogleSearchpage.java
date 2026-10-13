@@ -5,12 +5,10 @@ import org.openqa.selenium.WebDriver;
 
 public class GoogleSearchpage {
     WebDriver driver;
-
+    By searchbox = By.xpath("//*[@id=\"ti6dpd\"]");
     public GoogleSearchpage(WebDriver driver){
         this.driver = driver;
     }
-
-    By searchbox = By.xpath("//*[@id=\"ti6dpd\"]");
 
     public void searchgoogle(String Searchinput) throws InterruptedException{
         driver.findElement(searchbox).sendKeys(Searchinput);
