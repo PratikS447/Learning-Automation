@@ -1,4 +1,4 @@
-package com.example.Selenium_Learning.Page_object_Modal.Greek_for_Geek;
+package com.example.Selenium_Learning.Page_object_Modal;
 
 
 import org.openqa.selenium.By;

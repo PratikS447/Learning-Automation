@@ -1,6 +1,6 @@
 package com.example.Selenium_Learning.Page_object_Model.Greek_for_Geek;
 
-import com.example.Selenium_Learning.Page_object_Modal.Greek_for_Geek.LoginPage;
+import com.example.Selenium_Learning.Page_object_Modal.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

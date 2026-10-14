@@ -1,4 +1,4 @@
-package com.example.Selenium_Learning.Page_object_Model.PageFactory;
+package com.example.Selenium_Learning.PageFactory;
 
 import com.example.Selenium_Learning.PageFactory.LoginPageFactory;
 import io.github.bonigarcia.wdm.WebDriverManager;
